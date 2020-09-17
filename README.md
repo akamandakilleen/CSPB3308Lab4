@@ -1,1 +1,2 @@
-# akamandakilleen-CSPB3308Lab4-t
+Assignment Name: Lab 4, Version Control
+Name: Amanda Killeen
